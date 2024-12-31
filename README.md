@@ -2,7 +2,8 @@
 
 ### Dashboard Link : https://app.powerbi.com/links/kjbDnHjHzi?ctid=a1a4ee51-99fa-437d-8ba7-d05192f6c077&pbi_source=linkShar
 
-![Alt Text](https://github.com/coding-a11y/E-Commerce-Sales-Report-Dashboard/blob/main/E%20Commerce%20Sales.pdf)
+![image](https://github.com/user-attachments/assets/68cbf563-1bb0-4b9e-a90a-b834e92cec46)
+
 
 
 ## Problem Statement
