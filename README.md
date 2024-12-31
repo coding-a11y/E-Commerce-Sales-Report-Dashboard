@@ -2,6 +2,9 @@
 
 ### Dashboard Link : https://app.powerbi.com/links/kjbDnHjHzi?ctid=a1a4ee51-99fa-437d-8ba7-d05192f6c077&pbi_source=linkShar
 
+![Alt Text](image-url)
+
+
 ## Problem Statement
 
 This dashboard helps the e-commerce company better understand its customers and their shopping experiences. It enables the company to evaluate customer satisfaction with their services, identify areas for improvement, and enhance overall service quality. By analyzing various metrics and feedback ratings, the company can pinpoint specific issues that may contribute to customer dissatisfaction.
